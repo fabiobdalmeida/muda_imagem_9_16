@@ -1,6 +1,6 @@
 # Image Resizer 9:16
 
-Python script to automatically adjust images to a 9:16 aspect ratio
+Python script to automatically adjust images to a 9:16 aspect ratio.
 
 ## How to Use
 
@@ -12,3 +12,20 @@ Python script to automatically adjust images to a 9:16 aspect ratio
 - Automatically resizes images to 9:16 aspect ratio
 - Preserves image quality without distortion
 - Ideal for preparing content for platforms like TikTok, Instagram and others
+
+
+## Usage
+
+1. Place the images you want to resize in the input_images folder
+2. Run the script: python resize_images_9-16.py
+3. Resized images will be saved in the output_images folder
+
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+
+## License? (No!) 
+
+I’m committed to keeping this project open source and welcome contributions from anyone passionate about improving it!
