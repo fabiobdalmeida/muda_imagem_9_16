@@ -1,12 +1,7 @@
-# muda_imagem_9_16
-Script em Python para ajustar imagens automaticamente para proporção 9:16.
+# Image Resizer 9:16
 
-# Muda Imagem 9:16
+Python script to automatically adjust images to a 9:16 aspect ratio.
 
-Este script em Python ajusta imagens para a proporção 9:16 de forma automática, sem distorção, ideal para redes sociais como TikTok.
+## How to Use
 
-## Como usar
-
-1. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
+1. Install dependencies: pip install -r requirements.txt
