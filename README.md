@@ -20,6 +20,13 @@ Python script to automatically adjust images to a 9:16 aspect ratio.
 2. Run the script: python resize_images_9-16.py
 3. Resized images will be saved in the output_images folder
 
+### USING THE PIP Package###
+
+pip install muda-imagem-9-16
+
+muda-imagem input.jpg
+
+
 ## 🧹 Cleaning Input and Output Folders
 
 To remove all files inside `input_images` and `output_images` while keeping the folders intact, run:
